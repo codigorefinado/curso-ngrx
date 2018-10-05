@@ -1,4 +1,4 @@
-<h1 align="center">Simples Redux Store</h1>
+<h1 align="center">NGRX</h1>
 <h4 align="center">Vanilla TypeScript - Exemplo com o conceito de Redux Store</h4>
 
 
@@ -34,7 +34,7 @@ npm install -g node-sass
 Tenha um editor de texto, no universo do Angular, no momento que escrevo dois são os mais comuns: 
 Visual Studio Code e WebStorm da JetBrains
 
-### [WebStorm]
+### [WebStorm](https://medium.com/codigorefinado/usando-webstorm-para-construir-aplica%C3%A7%C3%B5es-angular-f5ceffc8503b)
   Particularmente, prefiro utilizar o WebStorm, me motivo é simples, não gosto de ter de utilizar meu tempo avaliando plugins, quero uma ferramenta que seja uma IDE, e não um editor de texto extensível. Isto economiza o meu tempo, dado que o WebStorm, além de já vir com o necessário para que eu seja produtivo, ele também me permite adicionar plugins extras.
   Caso não conheça o WebStorm, veja leia no [blog código refinado breve apresentação desta ferramenta](https://medium.com/codigorefinado/usando-webstorm-para-construir-aplica%C3%A7%C3%B5es-angular-f5ceffc8503b).
    
