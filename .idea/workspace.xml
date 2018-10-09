@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f8cfd75-4d29-475d-9f14-885c4619fa38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/karma.entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/app/containers/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/app/containers/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/components/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/components/pizza-display/pizza-display.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/components/pizza-display/pizza-display.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/components/pizza-form/pizza-form.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/components/pizza-form/pizza-form.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/components/pizza-item/pizza-item.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/components/pizza-item/pizza-item.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/components/pizza-toppings/pizza-toppings.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/components/pizza-toppings/pizza-toppings.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/containers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/containers/product-item/product-item.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/containers/product-item/product-item.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/containers/products/products.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/containers/products/products.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/models/pizza.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/models/topping.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/products.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/services/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/services/pizzas.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/src/products/services/toppings.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrx-store-effects-app/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-concepts/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ngrx-store-effects-app/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/src/store/actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/src/store/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/src/store/reducers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/src/store/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/src/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/redux-concepts/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1844896270">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="5" />
+          <entry key="md" value="3" />
+          <entry key="ts" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="4" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="TypeScript" value="17" />
+          <entry key="tsconfig" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ngrx-store-effects-app/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Ultimate</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ngrx-store-effects-app/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ngrx-store-effects-app/package.json" />
+      <path value="$PROJECT_DIR$/redux-concepts/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="curso-ngrx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-ngrx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="curso-ngrx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-ngrx" type="462c0819:PsiDirectoryNode" />
+              <item name="ngrx-store-effects-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="curso-ngrx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-ngrx" type="462c0819:PsiDirectoryNode" />
+              <item name="ngrx-store-effects-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/allura/ngrx/ngrx-store-effects-app" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ngrx-store-effects-app" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8cfd75-4d29-475d-9f14-885c4619fa38" name="Default Changelist" comment="" />
+      <created>1538771035276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538771035276</updated>
+      <workItem from="1538771036553" duration="4782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4782000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" weight="0.32975295" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32079414" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/store.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngrx-store-effects-app/db.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngrx-store-effects-app/src/app/containers/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngrx-store-effects-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngrx-store-effects-app/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
