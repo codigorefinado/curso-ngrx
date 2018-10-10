@@ -1,4 +1,4 @@
-import * as fromStore from './store';
+import * as fromStore from './store/index';
 
 import { renderTodos } from './utils';
 
