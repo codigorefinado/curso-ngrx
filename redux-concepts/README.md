@@ -80,8 +80,12 @@ npm start
 Confira o projeto no endereço [localhost:8000](localhost:8000) em seu navegador, prefira o [Chrome](https://www.google.com/chrome) :D.
 
 Confira também os cursos:
- -[Angular](https://www.udemy.com/curso-refinado-de-angular/?couponCode=99DE35)
- -[TypeScript](https://www.udemy.com/curso-typescript/?couponCode=99DE35)
- -[Ionic](https://www.udemy.com/curso-de-ionic-essencial/?couponCode=99DE35)
+ - [Angular](https://www.udemy.com/curso-refinado-de-angular/?couponCode=99DE35)
+ - [TypeScript](https://www.udemy.com/curso-typescript/?couponCode=99DE35)
+ - [Ionic](https://www.udemy.com/curso-de-ionic-essencial/?couponCode=99DE35)
 
 
+
+
+Leia também:
+ - Vuex, a implementação o Redux para VueJS [aqui](https://medium.com/codigorefinado/gerenciando-estado-com-vuex-2accf11e9849)

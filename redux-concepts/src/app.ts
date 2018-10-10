@@ -1,6 +1,6 @@
 import * as fromStore from './store';
 
-import { renderTodos } from './utils';
+import {renderTodos} from './utils';
 
 const input = document.querySelector('input') as HTMLInputElement;
 const button = document.querySelector('button') as HTMLButtonElement;
@@ -16,9 +16,11 @@ const store = new fromStore.Store(reducers);
 button.addEventListener(
   'click',
   () => {
-    if (!input.value.trim()) return;
+    if (!input.value.trim()) {
+      return;
+    }
 
-    const todo = { label: input.value, complete: false };
+    const todo = {label: input.value, complete: false};
 
     store.dispatch(new fromStore.AddTodo(todo));
 
@@ -27,18 +29,24 @@ button.addEventListener(
   false
 );
 
+
+
 const unsubscribe = store.subscribe(state => {
   renderTodos(state.todos.data);
 });
 
 destroy.addEventListener('click', unsubscribe, false);
 
-todoList.addEventListener('click', function(event) {
+
+
+todoList.addEventListener('click', function (event) {
   const target = event.target as HTMLButtonElement;
+
   if (target.nodeName.toLowerCase() === 'button') {
     const todo = JSON.parse(target.getAttribute('data-todo') as any);
     store.dispatch(new fromStore.RemoveTodo(todo));
   }
+
 });
 
 store.subscribe(state => console.log('STATE:::', state));
