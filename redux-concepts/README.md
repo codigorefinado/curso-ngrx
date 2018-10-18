@@ -1,5 +1,5 @@
 <h1 align="center">NGRX</h1>
-<h4 align="center">Vanilla TypeScript - Exemplo com o conceito de Redux Store</h4>
+<h4 align="center">Vanilla TypeScript - Exemplo para demonstrar o conceito do Redux</h4>
 
 
 > Este repositório serve de base para o curso de NGRX Store com Effects, atente para as branches, que serão utilizadas para versionar e dividir partes do código, permitindo que o interessado consiga ter uma referência e vizasão do código correto a medida o conhecimento progride.
@@ -7,7 +7,7 @@
 
 ## Pre requisitos
 
-* Instele [Node.js](https://nodejs.org/en/download/)
+* Instale [Node.js](https://nodejs.org/en/download/)
 
 * Instale TypeScript
 
@@ -51,7 +51,11 @@ Outros plugins, que conheci depois dos listados anteriormente:
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode):
 - [Angular Language features](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
 - [VSCode Icons](https://github.com/vscode-icons/vscode-icons)
+- [AngularDoc](https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode)
 
+Abaixo, você encontra conjuntos (packs) de plugins reunidos: 
+- [TypeScript Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.ts-extension-pack)
+- [Angular Extension pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
 
 
 
@@ -80,8 +84,8 @@ npm start
 Confira o projeto no endereço [localhost:8000](localhost:8000) em seu navegador, prefira o [Chrome](https://www.google.com/chrome) :D.
 
 Confira também os cursos:
- -[Angular](https://www.udemy.com/curso-refinado-de-angular/?couponCode=99DE35)
- -[TypeScript](https://www.udemy.com/curso-typescript/?couponCode=99DE35)
- -[Ionic](https://www.udemy.com/curso-de-ionic-essencial/?couponCode=99DE35)
+ - [Angular](https://www.udemy.com/curso-refinado-de-angular/?couponCode=99DE35)
+ - [TypeScript](https://www.udemy.com/curso-typescript/?couponCode=99DE35)
+ - [Ionic](https://www.udemy.com/curso-de-ionic-essencial/?couponCode=99DE35)
 
 
